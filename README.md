@@ -11,7 +11,7 @@
 
 ## Project Description
 
-This project is to practice HTML, CSS, and Javascript. This is a restaurant website made after followinmg the tutorial and learning from bedmicode. It is a responsive website with scrolling animation.
+This project is to practice HTML, CSS, and Javascript. This is a restaurant website made after following the tutorial and learning from bedmicode. It is a responsive website with scrolling animation.
 
 ## Installation
 
